@@ -1,0 +1,25 @@
+{
+  "seconds": 103.94,
+  "sample_rate": 44100,
+  "channels": 2,
+  "loop": false,
+  "peak_dbfs": -4.4456300485281925,
+  "rms_dbfs": -21.319481358864127,
+  "clipped_samples": 0,
+  "loudness": {
+    "input_i": "-19.00",
+    "input_tp": "-4.45",
+    "input_lra": "2.30",
+    "input_thresh": "-29.13",
+    "output_i": "-15.52",
+    "output_tp": "-1.00",
+    "output_lra": "2.30",
+    "output_thresh": "-25.61",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.48"
+  },
+  "files": {
+    "wav": "E:\\long-wind-playable\\audio-previews\\stonegate-at-dusk\\stonegate-at-dusk-preview.wav",
+    "mp3": "E:\\long-wind-playable\\audio-previews\\stonegate-at-dusk\\stonegate-at-dusk-preview.mp3"
+  }
+}

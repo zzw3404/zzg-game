@@ -1,0 +1,27 @@
+{
+  "seconds": 40.0,
+  "sample_rate": 44100,
+  "channels": 2,
+  "loop": true,
+  "peak_dbfs": -4.481167230417158,
+  "rms_dbfs": -17.809071830024013,
+  "clipped_samples": 0,
+  "loudness": {
+    "input_i": "-16.00",
+    "input_tp": "-4.48",
+    "input_lra": "0.60",
+    "input_thresh": "-26.00",
+    "output_i": "-16.05",
+    "output_tp": "-4.49",
+    "output_lra": "0.60",
+    "output_thresh": "-26.05",
+    "normalization_type": "dynamic",
+    "target_offset": "0.05"
+  },
+  "files": {
+    "wav": "E:\\long-wind-playable\\audio-previews\\ember-charge\\ember-charge-loop.wav",
+    "mp3": "E:\\long-wind-playable\\public\\assets\\music\\ember-charge-loop.mp3",
+    "ogg": "E:\\long-wind-playable\\public\\assets\\music\\ember-charge-loop.ogg"
+  },
+  "boundary_step": 0.007924139499664307
+}

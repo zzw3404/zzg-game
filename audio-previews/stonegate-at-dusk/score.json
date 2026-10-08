@@ -1,0 +1,3691 @@
+[
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 0.13326145628078948,
+    "duration": 0.75,
+    "velocity": 0.8207325482224502
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 0.5655118417467901,
+    "duration": 0.75,
+    "velocity": 0.5321839270939462
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 0.9780496041664622,
+    "duration": 0.75,
+    "velocity": 0.5104539784698904
+  },
+  {
+    "part": "harp",
+    "note": 67,
+    "time": 1.3870609108205547,
+    "duration": 0.75,
+    "velocity": 0.5157898100737455
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 1.814536215247825,
+    "duration": 0.75,
+    "velocity": 0.5618301301355384
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 2.2314363349075967,
+    "duration": 0.75,
+    "velocity": 0.5417279834723112
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 0.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 0.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 1.8066666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 1.8166666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 67,
+    "time": 1.8266666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 2.637849836277605,
+    "duration": 0.75,
+    "velocity": 0.7261901534202803
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 3.053248849677615,
+    "duration": 0.75,
+    "velocity": 0.5207486723554807
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 3.473286892094294,
+    "duration": 0.75,
+    "velocity": 0.506816228274148
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 3.892983735025223,
+    "duration": 0.75,
+    "velocity": 0.5472564709475551
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 4.305868006123495,
+    "duration": 0.75,
+    "velocity": 0.5665411360808554
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 4.716192627661028,
+    "duration": 0.75,
+    "velocity": 0.5165475194637417
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 2.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 4.306666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 4.316666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 4.326666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 5.140841118681768,
+    "duration": 0.75,
+    "velocity": 0.7223116616757179
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 5.55160624740736,
+    "duration": 0.75,
+    "velocity": 0.5607538231831697
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 5.98219701110377,
+    "duration": 0.75,
+    "velocity": 0.5554550580231534
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 6.392826234377008,
+    "duration": 0.75,
+    "velocity": 0.5154567273501623
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 6.808522086902445,
+    "duration": 0.75,
+    "velocity": 0.5137714540282525
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 7.228249634304845,
+    "duration": 0.75,
+    "velocity": 0.573246381892386
+  },
+  {
+    "part": "harp",
+    "note": 45,
+    "time": 5.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 5.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 6.806666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 6.816666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 6.826666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 7.645105098080464,
+    "duration": 0.75,
+    "velocity": 0.785838606564478
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 8.060996288564452,
+    "duration": 0.75,
+    "velocity": 0.5415403288255051
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 8.476597730892077,
+    "duration": 0.75,
+    "velocity": 0.544004695275986
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 8.88454493370341,
+    "duration": 0.75,
+    "velocity": 0.5454997326055102
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 9.308215916829472,
+    "duration": 0.75,
+    "velocity": 0.5587578908844605
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 9.718402277902939,
+    "duration": 0.75,
+    "velocity": 0.5495089622117092
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 7.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 9.306666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 9.316666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 9.326666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 10.148932849378536,
+    "duration": 0.75,
+    "velocity": 0.7478713705905085
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 10.559448334377874,
+    "duration": 0.75,
+    "velocity": 0.5096499734868558
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 10.964723052119068,
+    "duration": 0.75,
+    "velocity": 0.5347161763087569
+  },
+  {
+    "part": "harp",
+    "note": 67,
+    "time": 11.385400460248148,
+    "duration": 0.75,
+    "velocity": 0.5630810165844226
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 11.805219543923776,
+    "duration": 0.75,
+    "velocity": 0.5081259357884248
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 12.220540125317987,
+    "duration": 0.75,
+    "velocity": 0.5051979565809837
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 10.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 10.165000000000001,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 11.806666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 11.816666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 67,
+    "time": 11.826666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 10.13173658967635,
+    "duration": 1.17,
+    "velocity": 0.6111855036387773
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 11.386432278503161,
+    "duration": 0.33666666666666667,
+    "velocity": 0.630377132651129
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 11.799045971013763,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5944303488230955
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 12.646844979082006,
+    "duration": 0.75,
+    "velocity": 0.7626172256470215
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 13.062305955524687,
+    "duration": 0.75,
+    "velocity": 0.5161211203051074
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 13.470280700713337,
+    "duration": 0.75,
+    "velocity": 0.5510124729232937
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 13.889444471761138,
+    "duration": 0.75,
+    "velocity": 0.5169414231485726
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 14.301550603179402,
+    "duration": 0.75,
+    "velocity": 0.5082565215691011
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 14.730578113743622,
+    "duration": 0.75,
+    "velocity": 0.5663777676558637
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 12.665000000000001,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 14.306666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 14.316666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 14.326666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 12.628369209045497,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5942384965266482
+  },
+  {
+    "part": "flute",
+    "note": 78,
+    "time": 13.467360924529364,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6233728827369978
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 13.89082795219231,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5961031258067049
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 14.306581640873372,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6138690514213999
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 15.131068862942088,
+    "duration": 0.75,
+    "velocity": 0.7308706815523314
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 15.56281914806838,
+    "duration": 0.75,
+    "velocity": 0.5557801140066799
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 15.974224435187395,
+    "duration": 0.75,
+    "velocity": 0.5478899418325284
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 16.383107560957196,
+    "duration": 0.75,
+    "velocity": 0.5301475735272536
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 16.809804681340943,
+    "duration": 0.75,
+    "velocity": 0.5551283875524551
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 17.21992140583526,
+    "duration": 0.75,
+    "velocity": 0.5227243059704706
+  },
+  {
+    "part": "harp",
+    "note": 40,
+    "time": 15.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 15.165000000000001,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 16.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 16.81666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 16.826666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 15.13175935023485,
+    "duration": 1.17,
+    "velocity": 0.588266791010926
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 16.387902084042327,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6310798113604715
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 16.804939327190834,
+    "duration": 0.7533333333333334,
+    "velocity": 0.632208777977952
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 17.633433456398855,
+    "duration": 0.75,
+    "velocity": 0.7226605139605674
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 18.050142722999254,
+    "duration": 0.75,
+    "velocity": 0.5772219114190413
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 18.469679178795705,
+    "duration": 0.75,
+    "velocity": 0.5301376979502189
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 18.887141276940135,
+    "duration": 0.75,
+    "velocity": 0.5690079681426957
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 19.304990565174432,
+    "duration": 0.75,
+    "velocity": 0.5254855429701587
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 19.728094137448114,
+    "duration": 0.75,
+    "velocity": 0.5513960655020949
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 17.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 19.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 19.31666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 19.326666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 84,
+    "time": 17.644882069431013,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6078486525334185
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 18.46604069002089,
+    "duration": 0.7533333333333334,
+    "velocity": 0.618961672787216
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 19.298337928179063,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6165447394923923
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 20.137617066020994,
+    "duration": 0.75,
+    "velocity": 0.8026407512086119
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 20.55433794803163,
+    "duration": 0.75,
+    "velocity": 0.5146424472866016
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 20.96695865289094,
+    "duration": 0.75,
+    "velocity": 0.5262974678401473
+  },
+  {
+    "part": "harp",
+    "note": 67,
+    "time": 21.398509935535703,
+    "duration": 0.75,
+    "velocity": 0.5722862508593949
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 21.809402197594277,
+    "duration": 0.75,
+    "velocity": 0.5106504800838026
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 22.219674279885172,
+    "duration": 0.75,
+    "velocity": 0.5479407918476554
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 20.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 20.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 21.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 21.81666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 67,
+    "time": 21.826666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 20.136422790137242,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6172498906740318
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 20.971626544472727,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6077438932377486
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 21.397790663804436,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6073655696999102
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 21.79514063347989,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5994045179203561
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 22.64017824582696,
+    "duration": 0.75,
+    "velocity": 0.762646421823222
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 23.06338253390503,
+    "duration": 0.75,
+    "velocity": 0.5135369988023702
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 23.475172645194895,
+    "duration": 0.75,
+    "velocity": 0.5222386134213491
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 23.897588031209043,
+    "duration": 0.75,
+    "velocity": 0.5187140133327125
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 24.312880667530827,
+    "duration": 0.75,
+    "velocity": 0.549400259105727
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 24.724462784583697,
+    "duration": 0.75,
+    "velocity": 0.5456688342018337
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 22.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 24.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 24.31666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 24.326666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 22.63852215007319,
+    "duration": 1.17,
+    "velocity": 0.5999652114226544
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 23.88516352365555,
+    "duration": 0.33666666666666667,
+    "velocity": 0.586257092243999
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 24.31398081677537,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6260818336648675
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 25.137815955716526,
+    "duration": 0.75,
+    "velocity": 0.7955248070693733
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 25.562890080822793,
+    "duration": 0.75,
+    "velocity": 0.52824402079505
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 25.971853274710995,
+    "duration": 0.75,
+    "velocity": 0.504282601107581
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 26.39647637846556,
+    "duration": 0.75,
+    "velocity": 0.5093929651311183
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 26.810762134170993,
+    "duration": 0.75,
+    "velocity": 0.5314904342796606
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 27.230650514903004,
+    "duration": 0.75,
+    "velocity": 0.564195701414613
+  },
+  {
+    "part": "harp",
+    "note": 36,
+    "time": 25.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 25.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 26.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 26.81666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 26.826666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 25.14749305834448,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6108239337709863
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 25.97594285844395,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6321592286388459
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 26.81773891055415,
+    "duration": 0.7533333333333334,
+    "velocity": 0.617796419350879
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 27.64223780197024,
+    "duration": 0.75,
+    "velocity": 0.7168539287651606
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 28.05812943303906,
+    "duration": 0.75,
+    "velocity": 0.5374772182372204
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 28.474029681882747,
+    "duration": 0.75,
+    "velocity": 0.5027432690075335
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 28.88716772662493,
+    "duration": 0.75,
+    "velocity": 0.5641984525402755
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 29.306027951544365,
+    "duration": 0.75,
+    "velocity": 0.5303094295927739
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 29.71907699748317,
+    "duration": 0.75,
+    "velocity": 0.5193996111757381
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 27.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 29.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 29.31666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 29.326666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 78,
+    "time": 27.645042075059187,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6105954797534467
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 28.48382004043834,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5864998818727287
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 28.89642119889314,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5922444222511596
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 30.136875634746122,
+    "duration": 0.75,
+    "velocity": 0.7618159600193091
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 30.558195475819176,
+    "duration": 0.75,
+    "velocity": 0.5428290427001728
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 30.976164129855324,
+    "duration": 0.75,
+    "velocity": 0.5095336639952127
+  },
+  {
+    "part": "harp",
+    "note": 67,
+    "time": 31.392655929953218,
+    "duration": 0.75,
+    "velocity": 0.5083631776813881
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 31.80696380096058,
+    "duration": 0.75,
+    "velocity": 0.5665283931173366
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 32.22722443110829,
+    "duration": 0.75,
+    "velocity": 0.5361219878595886
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 30.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 30.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 31.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 31.81666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 67,
+    "time": 31.826666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 79,
+    "time": 32.223333333333336,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 30.143128594043475,
+    "duration": 1.17,
+    "velocity": 0.586401615606126
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 31.37961041846555,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6098322697210148
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 31.805939466692582,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5965839315964887
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 32.646929928397014,
+    "duration": 0.75,
+    "velocity": 0.7212227832735392
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 33.050716381658205,
+    "duration": 0.75,
+    "velocity": 0.5761217853079824
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 33.47938053126513,
+    "duration": 0.75,
+    "velocity": 0.5246102825050242
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 33.894848580373335,
+    "duration": 0.75,
+    "velocity": 0.5360677438865897
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 34.29894387718919,
+    "duration": 0.75,
+    "velocity": 0.5740829696966594
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 34.726914651162915,
+    "duration": 0.75,
+    "velocity": 0.505226923836056
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 32.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 34.306666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 34.31666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 34.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 78,
+    "time": 34.723333333333336,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 32.64257509408473,
+    "duration": 0.7533333333333334,
+    "velocity": 0.596331014516637
+  },
+  {
+    "part": "flute",
+    "note": 78,
+    "time": 33.481367096442035,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6152628103179255
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 33.88478948197885,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5917230777069734
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 34.30539140059254,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5901495103176927
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 35.141895737290234,
+    "duration": 0.75,
+    "velocity": 0.7363038570856526
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 35.55546889187099,
+    "duration": 0.75,
+    "velocity": 0.5031504314021611
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 35.977167713318615,
+    "duration": 0.75,
+    "velocity": 0.5352709016879762
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 36.392855403288,
+    "duration": 0.75,
+    "velocity": 0.5364483845445406
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 36.81517485815258,
+    "duration": 0.75,
+    "velocity": 0.507792437895547
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 37.2148563350571,
+    "duration": 0.75,
+    "velocity": 0.5311295060569234
+  },
+  {
+    "part": "harp",
+    "note": 40,
+    "time": 35.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 35.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 36.806666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 36.81666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 36.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 76,
+    "time": 37.223333333333336,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 35.15172258843422,
+    "duration": 1.17,
+    "velocity": 0.6229175971899145
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 36.37802313252527,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6195638284701315
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 36.80155604371159,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6028729146488345
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 37.63565203787493,
+    "duration": 0.75,
+    "velocity": 0.748241767682205
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 38.05599498430242,
+    "duration": 0.75,
+    "velocity": 0.5654640300487994
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 38.47476100591014,
+    "duration": 0.75,
+    "velocity": 0.5111887622588811
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 38.88812404542828,
+    "duration": 0.75,
+    "velocity": 0.5766924652205314
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 39.30219953547195,
+    "duration": 0.75,
+    "velocity": 0.5253734996974259
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 39.71935032534584,
+    "duration": 0.75,
+    "velocity": 0.5727702239940965
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 37.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 39.306666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 39.31666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 39.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 76,
+    "time": 39.723333333333336,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 84,
+    "time": 37.643237616727916,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6296521614434595
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 38.47489042916104,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5856483869255514
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 39.30110128755317,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5946680905207155
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 40.13148159835475,
+    "duration": 0.75,
+    "velocity": 0.7916245509927003
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 40.55538277118833,
+    "duration": 0.75,
+    "velocity": 0.5320324652828097
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 40.97518356441768,
+    "duration": 0.75,
+    "velocity": 0.5236761450990911
+  },
+  {
+    "part": "harp",
+    "note": 67,
+    "time": 41.384683308959936,
+    "duration": 0.75,
+    "velocity": 0.5228245131956172
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 41.8025675061544,
+    "duration": 0.75,
+    "velocity": 0.5481910492819949
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 42.226078593222866,
+    "duration": 0.75,
+    "velocity": 0.5664365684382568
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 40.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 40.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 41.806666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 41.81666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 67,
+    "time": 41.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 79,
+    "time": 42.223333333333336,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 40.14624475222826,
+    "duration": 0.7533333333333334,
+    "velocity": 0.615097266838062
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 40.97984219593752,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5879299375551319
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 41.381858312629404,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6131521539378072
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 41.79953801088669,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6014943666260664
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 42.63756920916657,
+    "duration": 0.75,
+    "velocity": 0.7858616722847784
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 43.05126048915822,
+    "duration": 0.75,
+    "velocity": 0.5724386030304525
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 43.467250606543196,
+    "duration": 0.75,
+    "velocity": 0.5370689089753077
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 43.88562038308348,
+    "duration": 0.75,
+    "velocity": 0.5297139857998592
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 44.30985531853301,
+    "duration": 0.75,
+    "velocity": 0.5167839277955839
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 44.72935717715381,
+    "duration": 0.75,
+    "velocity": 0.517613438671957
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 42.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 44.306666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 44.31666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 44.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 76,
+    "time": 44.723333333333336,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 42.63101946672052,
+    "duration": 1.17,
+    "velocity": 0.6163832674129248
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 43.886076873846015,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6060479696393148
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 44.30532115806699,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6042204651581393
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 45.135648683044394,
+    "duration": 0.75,
+    "velocity": 0.7725136019658859
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 45.56497987553081,
+    "duration": 0.75,
+    "velocity": 0.5269417161204388
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 45.976374433028354,
+    "duration": 0.75,
+    "velocity": 0.5500755350720035
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 46.387865388350626,
+    "duration": 0.75,
+    "velocity": 0.563225837692217
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 46.811462870012,
+    "duration": 0.75,
+    "velocity": 0.5087986051620639
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 47.226852986590714,
+    "duration": 0.75,
+    "velocity": 0.5726818879918851
+  },
+  {
+    "part": "harp",
+    "note": 36,
+    "time": 45.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 45.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 46.806666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 46.81666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 46.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 76,
+    "time": 47.223333333333336,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 47.63459610044163,
+    "duration": 0.75,
+    "velocity": 0.8092874033829857
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 48.062923173878424,
+    "duration": 0.75,
+    "velocity": 0.5060897581182491
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 48.47265744055791,
+    "duration": 0.75,
+    "velocity": 0.5258284615807842
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 48.88442650173046,
+    "duration": 0.75,
+    "velocity": 0.5366325570332496
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 49.31349857661235,
+    "duration": 0.75,
+    "velocity": 0.5566753999179349
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 49.723201847204116,
+    "duration": 0.75,
+    "velocity": 0.540389425280298
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 47.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 49.306666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 49.31666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 49.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 78,
+    "time": 49.723333333333336,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 50.13757134681695,
+    "duration": 0.75,
+    "velocity": 0.7729262594543347
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 50.56529818619353,
+    "duration": 0.75,
+    "velocity": 0.521456645670049
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 50.96886075407884,
+    "duration": 0.75,
+    "velocity": 0.5136211517070587
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 51.396604609590035,
+    "duration": 0.75,
+    "velocity": 0.5250929150256354
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 51.79769030599229,
+    "duration": 0.75,
+    "velocity": 0.550971293858966
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 52.222467259680535,
+    "duration": 0.75,
+    "velocity": 0.547282036785579
+  },
+  {
+    "part": "harp",
+    "note": 40,
+    "time": 50.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 50.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 51.806666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 51.81666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 51.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 50.14105875012249,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6352393782839931
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 50.97427752726674,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6627483919441594
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 51.7975362316382,
+    "duration": 0.7533333333333334,
+    "velocity": 0.649360345148301
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 52.644779982953025,
+    "duration": 0.75,
+    "velocity": 0.8150842652637068
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 53.06075991500652,
+    "duration": 0.75,
+    "velocity": 0.5239583252571541
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 53.467563730874744,
+    "duration": 0.75,
+    "velocity": 0.5728140467986228
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 53.88505345843911,
+    "duration": 0.75,
+    "velocity": 0.5191938454644768
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 54.30711847993716,
+    "duration": 0.75,
+    "velocity": 0.5484583957194514
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 54.72828943347942,
+    "duration": 0.75,
+    "velocity": 0.5328525749775653
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 52.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 54.306666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 54.31666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 54.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 84,
+    "time": 52.630428609058825,
+    "duration": 1.17,
+    "velocity": 0.6796538184693756
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 53.901935845139334,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6805054147740995
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 54.30558268099589,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6453664847039192
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 55.13771059292009,
+    "duration": 0.75,
+    "velocity": 0.7402321280795402
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 55.556462660138116,
+    "duration": 0.75,
+    "velocity": 0.5330860265949577
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 55.98183795635729,
+    "duration": 0.75,
+    "velocity": 0.5482685224194496
+  },
+  {
+    "part": "harp",
+    "note": 67,
+    "time": 56.38536275662573,
+    "duration": 0.75,
+    "velocity": 0.5025765794351884
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 56.80979836115978,
+    "duration": 0.75,
+    "velocity": 0.5745297928434362
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 57.232128982798606,
+    "duration": 0.75,
+    "velocity": 0.5298033079907423
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 55.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 55.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 56.806666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 56.81666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 67,
+    "time": 56.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 55.141772531291565,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6714516837216447
+  },
+  {
+    "part": "flute",
+    "note": 86,
+    "time": 55.97995429948685,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6759420229901578
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 56.8063325010779,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6862979300502995
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 57.63537930172163,
+    "duration": 0.75,
+    "velocity": 0.7554777266382939
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 58.06223119581549,
+    "duration": 0.75,
+    "velocity": 0.5224652325743631
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 58.475559999344554,
+    "duration": 0.75,
+    "velocity": 0.5278262280440666
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 58.8913502556973,
+    "duration": 0.75,
+    "velocity": 0.5374367403408626
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 59.31021354547389,
+    "duration": 0.75,
+    "velocity": 0.5619207828154522
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 59.72959230809766,
+    "duration": 0.75,
+    "velocity": 0.5523302506423337
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 57.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 59.306666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 59.31666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 59.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 57.65046126722121,
+    "duration": 1.17,
+    "velocity": 0.6574573114177785
+  },
+  {
+    "part": "flute",
+    "note": 78,
+    "time": 58.88715934871249,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6478167470051579
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 59.30267028769725,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6535976971614063
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 60.148513348740934,
+    "duration": 0.75,
+    "velocity": 0.7928911589243289
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 60.552469085956474,
+    "duration": 0.75,
+    "velocity": 0.5410270042840519
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 60.97284102761711,
+    "duration": 0.75,
+    "velocity": 0.5190616280522612
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 61.3928979704393,
+    "duration": 0.75,
+    "velocity": 0.5399175629512832
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 61.809192084056704,
+    "duration": 0.75,
+    "velocity": 0.5692608666258605
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 62.23218143024875,
+    "duration": 0.75,
+    "velocity": 0.5235049447862145
+  },
+  {
+    "part": "harp",
+    "note": 40,
+    "time": 60.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 60.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 61.806666666666665,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 61.81666666666666,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 61.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 60.131187518832114,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6537444650038851
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 60.96467778276846,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6843638182532962
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 61.38257880902242,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6769281321540699
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 61.79636424012625,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6400515164805866
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 62.63801748519875,
+    "duration": 0.75,
+    "velocity": 0.7433565228067164
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 63.05324675435772,
+    "duration": 0.75,
+    "velocity": 0.5701252558844361
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 63.46778734905485,
+    "duration": 0.75,
+    "velocity": 0.5631121769626541
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 63.891918439643874,
+    "duration": 0.75,
+    "velocity": 0.5347400381604893
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 64.30217366560566,
+    "duration": 0.75,
+    "velocity": 0.5678016440991811
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 64.71698487499846,
+    "duration": 0.75,
+    "velocity": 0.5250420067871566
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 62.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 64.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 64.31666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 64.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 62.64711228335374,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6456089613892414
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 63.472896752434565,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6411002352549687
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 64.30176444415514,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6554861073631056
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 65.13464779266833,
+    "duration": 0.75,
+    "velocity": 0.777675045585716
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 65.55389139760037,
+    "duration": 0.75,
+    "velocity": 0.5363610322154793
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 65.96454731307325,
+    "duration": 0.75,
+    "velocity": 0.5149929578249905
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 66.39379060274729,
+    "duration": 0.75,
+    "velocity": 0.5696713729108852
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 66.80332961227016,
+    "duration": 0.75,
+    "velocity": 0.5764525498870325
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 67.21696865009758,
+    "duration": 0.75,
+    "velocity": 0.5559276958672739
+  },
+  {
+    "part": "harp",
+    "note": 36,
+    "time": 65.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 65.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 66.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 66.81666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 66.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 65.14825179199043,
+    "duration": 1.17,
+    "velocity": 0.6637867772823686
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 66.37924673205391,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6765367117547996
+  },
+  {
+    "part": "flute",
+    "note": 72,
+    "time": 66.79578283713352,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6640557373899446
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 67.64568634791492,
+    "duration": 0.75,
+    "velocity": 0.7662581105033496
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 68.050664967184,
+    "duration": 0.75,
+    "velocity": 0.5264837332051957
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 68.47264272759863,
+    "duration": 0.75,
+    "velocity": 0.5199315069742428
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 68.89117127963134,
+    "duration": 0.75,
+    "velocity": 0.5317913701901187
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 69.31453544004215,
+    "duration": 0.75,
+    "velocity": 0.5241257193459473
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 69.71485065095486,
+    "duration": 0.75,
+    "velocity": 0.5357519039045286
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 67.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 69.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 69.31666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 69.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 67.6299021622041,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6847628702631324
+  },
+  {
+    "part": "flute",
+    "note": 78,
+    "time": 68.47560379470623,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6630531495455233
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 70.14620354618727,
+    "duration": 0.75,
+    "velocity": 0.7955702167699076
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 70.55179249372401,
+    "duration": 0.75,
+    "velocity": 0.5117572416537454
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 70.97776586075004,
+    "duration": 0.75,
+    "velocity": 0.5300738494643471
+  },
+  {
+    "part": "harp",
+    "note": 67,
+    "time": 71.38859137492354,
+    "duration": 0.75,
+    "velocity": 0.5644531263561273
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 71.80488602248352,
+    "duration": 0.75,
+    "velocity": 0.5431354196632945
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 72.2274239231364,
+    "duration": 0.75,
+    "velocity": 0.5265803211797682
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 70.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 70.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 71.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 71.81666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 67,
+    "time": 71.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 79,
+    "time": 72.22333333333333,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 70.1288574218608,
+    "duration": 1.17,
+    "velocity": 0.627371489177211
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 71.39443342705226,
+    "duration": 0.33666666666666667,
+    "velocity": 0.59241735324982
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 71.80309708396071,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6075208937863229
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 72.63696842952508,
+    "duration": 0.75,
+    "velocity": 0.7182287689394378
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 73.06013550995004,
+    "duration": 0.75,
+    "velocity": 0.5751473089516337
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 73.47758057333667,
+    "duration": 0.75,
+    "velocity": 0.5360558294136216
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 73.88385917896979,
+    "duration": 0.75,
+    "velocity": 0.5250102026108325
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 74.30715827270335,
+    "duration": 0.75,
+    "velocity": 0.5537457869513754
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 74.72856610160608,
+    "duration": 0.75,
+    "velocity": 0.5623779625835874
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 72.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 74.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 74.31666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 74.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 78,
+    "time": 74.72333333333333,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 72.63695282000505,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6310773464324626
+  },
+  {
+    "part": "flute",
+    "note": 78,
+    "time": 73.48272984720357,
+    "duration": 0.33666666666666667,
+    "velocity": 0.62805196457993
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 73.89923145945366,
+    "duration": 0.33666666666666667,
+    "velocity": 0.605768216780016
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 74.31417576785711,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6082083381744585
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 75.13904380477577,
+    "duration": 0.75,
+    "velocity": 0.7330503703459542
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 75.55062385812548,
+    "duration": 0.75,
+    "velocity": 0.5734838134418409
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 75.96735847141898,
+    "duration": 0.75,
+    "velocity": 0.5136684839083163
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 76.38903803428788,
+    "duration": 0.75,
+    "velocity": 0.5317459021055426
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 76.79987879958829,
+    "duration": 0.75,
+    "velocity": 0.5664473655087506
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 77.21478577084144,
+    "duration": 0.75,
+    "velocity": 0.5150761179644953
+  },
+  {
+    "part": "harp",
+    "note": 40,
+    "time": 75.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 75.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 76.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 76.81666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 76.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 76,
+    "time": 77.22333333333333,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 75.14261381662465,
+    "duration": 1.17,
+    "velocity": 0.6016885725416398
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 76.38375793007806,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5955471633149408
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 76.79743269898054,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6096421061129603
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 77.63178818275719,
+    "duration": 0.75,
+    "velocity": 0.8143993423444172
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 78.05933766040252,
+    "duration": 0.75,
+    "velocity": 0.5114476543730814
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 78.47551764540793,
+    "duration": 0.75,
+    "velocity": 0.5661400909159932
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 78.88529730934789,
+    "duration": 0.75,
+    "velocity": 0.5593484656649378
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 79.3146505332786,
+    "duration": 0.75,
+    "velocity": 0.5481992191041091
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 79.72349219104464,
+    "duration": 0.75,
+    "velocity": 0.5101377757755838
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 77.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 79.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 79.31666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 79.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 76,
+    "time": 79.72333333333333,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 84,
+    "time": 77.62917471461775,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5928137558448818
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 78.48422506229882,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6335941249421824
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 79.30571174125032,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6272132797489721
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 80.14628687892761,
+    "duration": 0.75,
+    "velocity": 0.7463980047878718
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 80.55488221738699,
+    "duration": 0.75,
+    "velocity": 0.5242091608925837
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 80.9795075766459,
+    "duration": 0.75,
+    "velocity": 0.5355570097561042
+  },
+  {
+    "part": "harp",
+    "note": 67,
+    "time": 81.39409352691627,
+    "duration": 0.75,
+    "velocity": 0.5449697106771024
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 81.7989051214925,
+    "duration": 0.75,
+    "velocity": 0.5364515518149019
+  },
+  {
+    "part": "harp",
+    "note": 59,
+    "time": 82.21829245284268,
+    "duration": 0.75,
+    "velocity": 0.54089558715143
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 80.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 80.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 59,
+    "time": 81.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 81.81666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 67,
+    "time": 81.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 79,
+    "time": 82.22333333333333,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 83,
+    "time": 80.13970758415994,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5897583511987046
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 80.97672226981994,
+    "duration": 0.33666666666666667,
+    "velocity": 0.6016346843304743
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 81.38966438726122,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5966298104211968
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 81.80928582594532,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6091466449093736
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 82.64729560600017,
+    "duration": 0.75,
+    "velocity": 0.7358216388040728
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 83.05751646496525,
+    "duration": 0.75,
+    "velocity": 0.5365105149860706
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 83.4783298895194,
+    "duration": 0.75,
+    "velocity": 0.5143369337140052
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 83.89198936100912,
+    "duration": 0.75,
+    "velocity": 0.5143232557669778
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 84.30381587445518,
+    "duration": 0.75,
+    "velocity": 0.5052841241073817
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 84.7250848280077,
+    "duration": 0.75,
+    "velocity": 0.5700841412384908
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 82.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 84.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 84.31666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 84.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 76,
+    "time": 84.72333333333333,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 82.64960406408267,
+    "duration": 1.17,
+    "velocity": 0.5874736862043335
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 83.88946395130503,
+    "duration": 0.33666666666666667,
+    "velocity": 0.5875260861775516
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 84.3125308380675,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5914986141926856
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 85.13583773998839,
+    "duration": 0.75,
+    "velocity": 0.814997284352208
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 85.5634746789263,
+    "duration": 0.75,
+    "velocity": 0.5679173969703963
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 85.96572939166853,
+    "duration": 0.75,
+    "velocity": 0.511997235251213
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 86.38122263204441,
+    "duration": 0.75,
+    "velocity": 0.5477674579609585
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 86.80194086730093,
+    "duration": 0.75,
+    "velocity": 0.5487864350186888
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 87.2299442741011,
+    "duration": 0.75,
+    "velocity": 0.5048489822998451
+  },
+  {
+    "part": "harp",
+    "note": 36,
+    "time": 85.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 85.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 86.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 86.81666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 86.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 76,
+    "time": 87.22333333333333,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 87.63351605647398,
+    "duration": 0.75,
+    "velocity": 0.7684652750941589
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 88.06543464597608,
+    "duration": 0.75,
+    "velocity": 0.5566749912205483
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 88.47757661102162,
+    "duration": 0.75,
+    "velocity": 0.5119341127215467
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 88.89862706475162,
+    "duration": 0.75,
+    "velocity": 0.5476739092018093
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 89.3018523641868,
+    "duration": 0.75,
+    "velocity": 0.5411476284611375
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 89.72903664563745,
+    "duration": 0.75,
+    "velocity": 0.5026346957634196
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 87.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 89.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 89.31666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 89.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "harp",
+    "note": 78,
+    "time": 89.72333333333333,
+    "duration": 0.5833333333333334,
+    "velocity": 0.36
+  },
+  {
+    "part": "harp",
+    "note": 48,
+    "time": 90.14130806786127,
+    "duration": 0.75,
+    "velocity": 0.7548299789013012
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 90.56005787902346,
+    "duration": 0.75,
+    "velocity": 0.5396082600868035
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 90.96978697615273,
+    "duration": 0.75,
+    "velocity": 0.5307087148807026
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 91.39294434718332,
+    "duration": 0.75,
+    "velocity": 0.537969300418341
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 91.80680310013732,
+    "duration": 0.75,
+    "velocity": 0.5637489584113599
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 92.2150135144021,
+    "duration": 0.75,
+    "velocity": 0.5395701877507126
+  },
+  {
+    "part": "harp",
+    "note": 36,
+    "time": 90.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 48,
+    "time": 90.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 91.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 91.81666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 91.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 90.13171553027001,
+    "duration": 1.17,
+    "velocity": 0.589476898617953
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 91.39355772214074,
+    "duration": 1.17,
+    "velocity": 0.6334758064348288
+  },
+  {
+    "part": "harp",
+    "note": 52,
+    "time": 92.63598330722775,
+    "duration": 0.75,
+    "velocity": 0.7490092791018439
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 93.05028719846908,
+    "duration": 0.75,
+    "velocity": 0.5605260085677336
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 93.47799894437489,
+    "duration": 0.75,
+    "velocity": 0.5113623734919347
+  },
+  {
+    "part": "harp",
+    "note": 64,
+    "time": 93.88980459980294,
+    "duration": 0.75,
+    "velocity": 0.5739696252478944
+  },
+  {
+    "part": "harp",
+    "note": 60,
+    "time": 94.29973297983564,
+    "duration": 0.75,
+    "velocity": 0.5412207315135872
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 94.71803140522054,
+    "duration": 0.75,
+    "velocity": 0.5693684708848591
+  },
+  {
+    "part": "lute",
+    "note": 52,
+    "time": 92.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 94.30666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 60,
+    "time": 94.31666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 64,
+    "time": 94.32666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 81,
+    "time": 92.63691331208342,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5919685111803276
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 93.47549261060679,
+    "duration": 0.7533333333333334,
+    "velocity": 0.6157991168988969
+  },
+  {
+    "part": "flute",
+    "note": 76,
+    "time": 94.29972509727472,
+    "duration": 0.7533333333333334,
+    "velocity": 0.5893513746782497
+  },
+  {
+    "part": "harp",
+    "note": 50,
+    "time": 95.13927142188494,
+    "duration": 0.75,
+    "velocity": 0.725395810370716
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 95.56013350017633,
+    "duration": 0.75,
+    "velocity": 0.534356204904994
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 95.96541632271082,
+    "duration": 0.75,
+    "velocity": 0.5209970917842806
+  },
+  {
+    "part": "harp",
+    "note": 66,
+    "time": 96.38262750047102,
+    "duration": 0.75,
+    "velocity": 0.5710026782346663
+  },
+  {
+    "part": "harp",
+    "note": 62,
+    "time": 96.80941803803334,
+    "duration": 0.75,
+    "velocity": 0.5178030907349386
+  },
+  {
+    "part": "harp",
+    "note": 57,
+    "time": 97.22172878295352,
+    "duration": 0.75,
+    "velocity": 0.5562519203657901
+  },
+  {
+    "part": "harp",
+    "note": 38,
+    "time": 95.14,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 50,
+    "time": 95.165,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "lute",
+    "note": 57,
+    "time": 96.80666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 62,
+    "time": 96.81666666666668,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "lute",
+    "note": 66,
+    "time": 96.82666666666667,
+    "duration": 0.7083333333333334,
+    "velocity": 0.39
+  },
+  {
+    "part": "flute",
+    "note": 78,
+    "time": 95.14200643222381,
+    "duration": 1.17,
+    "velocity": 0.5945499099162032
+  },
+  {
+    "part": "flute",
+    "note": 74,
+    "time": 96.40158093120512,
+    "duration": 1.17,
+    "velocity": 0.6137494421423106
+  },
+  {
+    "part": "harp",
+    "note": 55,
+    "time": 97.63999641780319,
+    "duration": 0.75,
+    "velocity": 0.7991952769346977
+  },
+  {
+    "part": "harp",
+    "note": 43,
+    "time": 97.64,
+    "duration": 2.3333333333333335,
+    "velocity": 0.65
+  },
+  {
+    "part": "lute",
+    "note": 55,
+    "time": 97.665,
+    "duration": 1.5,
+    "velocity": 0.62
+  },
+  {
+    "part": "flute",
+    "note": 79,
+    "time": 97.64594656281793,
+    "duration": 2.42,
+    "velocity": 0.5967541742674632
+  }
+]

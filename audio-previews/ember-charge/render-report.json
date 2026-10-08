@@ -1,0 +1,87 @@
+{
+  "title": "Ember Charge / 余烬冲锋",
+  "seconds": 82.52002267573697,
+  "sample_rate": 44100,
+  "meter": "6/8",
+  "bpm_quarter": 144,
+  "mode": "D Dorian",
+  "events": 1701,
+  "stems": {
+    "whistle": {
+      "rms_dbfs": -22.924964886749258,
+      "peak_dbfs": -17.435749365365275
+    },
+    "lute": {
+      "rms_dbfs": -24.268765273322185,
+      "peak_dbfs": -10.315204880397506
+    },
+    "drums": {
+      "rms_dbfs": -25.43719660373442,
+      "peak_dbfs": -8.79333489579947
+    }
+  },
+  "peak_dbfs": -3.96821809122749,
+  "rms_dbfs": -17.89656408829433,
+  "clipped_samples": 0,
+  "loudness_analysis": {
+    "input_i": "-16.00",
+    "input_tp": "-3.97",
+    "input_lra": "3.80",
+    "input_thresh": "-26.16",
+    "output_i": "-15.67",
+    "output_tp": "-3.75",
+    "output_lra": "3.60",
+    "output_thresh": "-25.75",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.33"
+  },
+  "unmastered_loudness_analysis": {
+    "input_i": "-13.97",
+    "input_tp": "-1.94",
+    "input_lra": "3.90",
+    "input_thresh": "-24.13",
+    "output_i": "-15.67",
+    "output_tp": "-3.76",
+    "output_lra": "3.60",
+    "output_thresh": "-25.75",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.33"
+  },
+  "sections": [
+    {
+      "start": 0.12,
+      "end": 5.12,
+      "label": "Drums at the gate"
+    },
+    {
+      "start": 5.12,
+      "end": 25.12,
+      "label": "First charge"
+    },
+    {
+      "start": 25.12,
+      "end": 45.12,
+      "label": "Whistle rally"
+    },
+    {
+      "start": 45.12,
+      "end": 55.12,
+      "label": "Hold the line"
+    },
+    {
+      "start": 55.12,
+      "end": 75.12,
+      "label": "Second charge"
+    },
+    {
+      "start": 75.12,
+      "end": 80.12,
+      "label": "Final strike"
+    }
+  ],
+  "files": {
+    "mp3": "E:\\long-wind-playable\\audio-previews\\ember-charge\\ember-charge-preview.mp3",
+    "wav": "E:\\long-wind-playable\\audio-previews\\ember-charge\\ember-charge-preview.wav",
+    "midi": "E:\\long-wind-playable\\audio-previews\\ember-charge\\ember-charge.mid"
+  }
+}
